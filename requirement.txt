@@ -1,0 +1,12 @@
+# requirements.txt
+
+matplotlib==3.8.4
+pandas
+numpy
+seaborn
+scikit-learn
+streamlit
+textblob
+wordcloud
+altair
+pdfkit
